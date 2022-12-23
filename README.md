@@ -1,16 +1,16 @@
-<h1>Ciao, I'm Matteo! I am a <a href="https://www.linkedin.com/in/mattstelluti">Business Intelligence Professional</a>
+<h1>Ciao, I'm Matteo, and I am a <a href="https://www.linkedin.com/in/mattstelluti">Business Intelligence Professional</a>!
 
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Real Estate Pricing With ML](https://...) <b><i>(R)</b></i>
-  - [NLP Application to Political Tweets](https://...) <b><i>(Python)</b></i>
+  - [Real Estate Pricing With ML](https://github.com/mattstell96/RealEstateML)<b><i>(R)</b></i>
+  - [NLP Application to Tweets](https://github.com/mattstell96/TwitterNLP) <b><i>(Python)</b></i>
 - <b>Statistics & Economics</b>
-  - [AMZN Stock Analysis With Time Series Modeling](https://...) <b><i>(R)</b></i>
+  - [AMZN Stock Analysis With Time Series Modeling](https://github.com/mattstell96/TimeSeriesAMZN) <b><i>(R)</b></i>
 - <b>Data Visualization</b>
   - [Blue Bikes](https://...) <b><i>(Tableau)</b></i>
 - <b>Other</b>
-  - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://...) <b><i>(R)</b></i>
+  - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://github.com/mattstell96/ArtScraper)<b><i>(R)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
