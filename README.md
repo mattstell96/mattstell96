@@ -4,7 +4,7 @@
 
 - <b>Machine Learning</b>
   - [Real Estate Pricing With ML](https://github.com/mattstell96/RealEstateML)<b><i>(R)</b></i>
-  - [NLP Application to Tweets](https://github.com/mattstell96/TwitterNLP) <b><i>(Python)</b></i>
+  - [NLP Application to Tweets: 2020 Elections Topic Modeling](https://github.com/mattstell96/TwitterNLP) <b><i>(Python)</b></i>
 - <b>Statistics & Economics</b>
   - [AMZN Stock Analysis With Time Series Modeling](https://github.com/mattstell96/TimeSeriesAMZN) <b><i>(R)</b></i>
 - <b>Data Visualization</b>
