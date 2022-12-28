@@ -2,22 +2,29 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Machine Learning</b>
+- <b>🧠 Machine Learning</b>
   - [Real Estate Pricing With ML](https://github.com/mattstell96/RealEstateML)<b><i>(R)</b></i>
   - [NLP Application to Tweets: 2020 Elections Topic Modeling](https://github.com/mattstell96/TwitterNLP) <b><i>(Python)</b></i>
-- <b>Statistics & Economics</b>
+- <b>📈 Statistics & Economics</b>
   - [AMZN Stock Analysis With Time Series Modeling](https://github.com/mattstell96/TimeSeriesAMZN) <b><i>(R)</b></i>
-- <b>Data Visualization</b>
-  - [Blue Bikes](https://...) <b><i>(Tableau)</b></i>
-- <b>Other</b>
+- <b>🎨 Data Visualization</b>
+  - [Blue Bikes](https://public.tableau.com/views/BlueBikes_Group7_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) <b><i>(Tableau)</b></i>
+- <b>🛠️ Programming</b>
   - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://github.com/mattstell96/ArtScraper)<b><i>(R)</b></i>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="MatteoStelluti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mattstelluti
 
+<h2>👨 About me:</h2>
+  
+- 🌱 I’m currently learning AWS, Snowflake, Data Engineering concepts
+- 📫 How to reach me: mstelluti1@babson.edu
+- 💡 Interests and hobbies: cinema, photography, art, cooking, travelling.
+
+  
 <!--
 **mattstell96/mattstell96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
