@@ -11,17 +11,13 @@
   - [Blue Bikes](https://public.tableau.com/views/BlueBikes_Group7_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) <b><i>(Tableau)</b></i>
 - <b>🛠️ Programming</b>
   - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://github.com/mattstell96/ArtScraper)<b><i>(R)</b></i>
-
-<h2>🤳 Connect with me:</h2>
-
-[<img align="left" alt="MatteoStelluti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/mattstelluti
+  
+</b>
 
 <h2>👨 About me:</h2>
   
 - 🌱 I’m currently learning AWS, Snowflake, Data Engineering concepts
-- 📫 How to reach me: mstelluti1@babson.edu
+- 📫 How to reach me: mstelluti1@babson.edu, [my linkedin profile](https://www.linkedin.com/in/mattstelluti)
 - 💡 Interests and hobbies: cinema, photography, art, cooking, travelling.
 
   
