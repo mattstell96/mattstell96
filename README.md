@@ -15,11 +15,12 @@
 </b>
 
 <h2>👨 About me:</h2>
-- 🔭 I’m currently working on [this project (includes scraping, databases, time series, Tableau viz)](https://github.com/mattstell96/ArtDatabase)
-- 🌱 I’m currently learning AWS, Snowflake, Data Engineering concepts
-- 📫 How to reach me: mstelluti1@babson.edu, [my linkedin profile](https://www.linkedin.com/in/mattstelluti)
-- 💡 Interests and hobbies: cinema, photography, art, cooking, travelling.
-
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/mattstell96/ArtDatabase">this project</a> (scraping, databases, time series, Tableau vizs)</li>
+<li>🌱 I’m currently learning AWS, Snowflake, Data Engineering concepts</li>
+<li>📫 How to reach me: mstelluti1@babson.edu, LinkedIn</li>
+<li>💡 Interests and hobbies: cinema, photography, art, cooking, travelling.</li>
+</ul>
   
 <!--
 **mattstell96/mattstell96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
