@@ -15,7 +15,7 @@
 </b>
 
 <h2>👨 About me:</h2>
-  
+- 🔭 I’m currently working on [this project (includes scraping, databases, time series, Tableau viz)](https://github.com/mattstell96/ArtDatabase)
 - 🌱 I’m currently learning AWS, Snowflake, Data Engineering concepts
 - 📫 How to reach me: mstelluti1@babson.edu, [my linkedin profile](https://www.linkedin.com/in/mattstelluti)
 - 💡 Interests and hobbies: cinema, photography, art, cooking, travelling.
