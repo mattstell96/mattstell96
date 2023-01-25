@@ -5,8 +5,9 @@
 - <b>🧠 Machine Learning</b>
   - [Real Estate Pricing With ML](https://github.com/mattstell96/RealEstateML)<b><i>(R)</b></i>
   - [NLP Application to Tweets: 2020 Elections Topic Modeling](https://github.com/mattstell96/TwitterNLP) <b><i>(Python)</b></i>
-- <b>📈 Statistics & Economics</b>
+- <b>📈 Statistics & Business Analytics</b>
   - [AMZN Stock Analysis With Time Series Modeling](https://github.com/mattstell96/TimeSeriesAMZN) <b><i>(R)</b></i>
+  - [Marketing Mix Modeling](https://github.com/mattstell96) <b><i>(Python)</b></i>
 - <b>🎨 Data Visualization</b>
   - [Blue Bikes](https://public.tableau.com/views/BlueBikes_Group7_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) <b><i>(Tableau)</b></i>
 - <b>🛠️ Programming</b>
