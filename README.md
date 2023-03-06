@@ -11,7 +11,7 @@
 - <b>🎨 Data Visualization</b>
   - [Blue Bikes](https://public.tableau.com/views/BlueBikes_Group7_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) <b><i>(Tableau)</b></i>
 - <b>🛠️ Programming</b>
-  - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://github.com/mattstell96/ArtScraper) <b><i>(R)</b></i>
+  - [Art Auction Prices: Dataset Generation With Scraping and APIs](https://github.com/mattstell96/ArtScraper) <b><i>(Python)</b></i>
   
 </b>
 
